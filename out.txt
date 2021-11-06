@@ -1,0 +1,21 @@
+
+Arquivos do diretório /home:
+matheus
+
+Arquivos do diretório /home/matheus:
+Área de Trabalho
+Documentos
+Downloads
+Imagens
+Lista1-script
+Modelos
+Música
+Público
+Vídeos
+
+Arquivos do diretório /home/matheus/Lista1-script:
+out.txt
+questao1.sh
+questao2.sh
+
+Arquivos do diretório /home/matheus/Downloads:
